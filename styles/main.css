@@ -17,10 +17,6 @@
     height: auto;
     background: rgb(172, 164, 164);
     }
-/* 
-    #Salario-s{
-        text-align: center;
-    } */
 
     .salario{
         text-align: center;
@@ -36,7 +32,7 @@
     margin-bottom: 50px;
     }
 
-    .submit{
+    #submit{
     background-color: red;
     padding: 10px;
     color: white;
@@ -44,6 +40,7 @@
 
     .valor{
         text-align: center;
+        margin-top: 20px;
     }
 
 
